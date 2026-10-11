@@ -1,0 +1,7 @@
+{
+  "version": "1.0.3",
+  "versionCode": 103,
+  "wgtUrl": "https://ghproxy.net/https://github.com/xy2373627123-lang/wangwang-app/releases/download/v1.0.3/update.wgt",
+  "updateDesc": "1. 升级微信式滑动界面\n2. 任务看板与全局搜索\n3. 修复拖拽与血统校验",
+  "forceUpdate": false
+}
